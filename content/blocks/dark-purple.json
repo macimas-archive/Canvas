@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Dark Purple",
+	"description": "The rarest color of the flags!",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "copper", "amount": 7 }
+		{ "item": "silicon", "amount": 3 }
+	]
+}

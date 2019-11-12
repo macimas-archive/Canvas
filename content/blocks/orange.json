@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "Orange",
+	"description": ":D",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 7 }
+	]
+}

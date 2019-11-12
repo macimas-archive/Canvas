@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "White",
+	"description": "Bright as light.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "metaglass", "amount": 10 }
+	]
+}

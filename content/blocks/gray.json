@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Gray",
+	"description": "Stone.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "metaglass", "amount": 5 }
+		{ "item": "silicon", "amount": 5 }
+	]
+}

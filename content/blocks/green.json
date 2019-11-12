@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "Green",
+	"description": "Absolute success.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	]
+}

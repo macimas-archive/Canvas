@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Dark Cyan",
+	"description": "What the.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 8 }
+		{ "item": "silicon", "amount": 2 }
+	]
+}

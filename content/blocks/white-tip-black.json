@@ -1,0 +1,14 @@
+{
+	"type": "Block",
+	"name": "White Tip on Black",
+	"description": "Quite a tip.",
+	"rotate": true,
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "effect",
+	"requirements": [
+		{ "item": "metaglass", "amount": 3 },
+		{ "item": "silicon", "amount": 7 }
+	]
+}

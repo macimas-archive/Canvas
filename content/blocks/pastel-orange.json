@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Light Orange",
+	"description": ":O",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 5 }
+		{ "item": "metaglass", "amount": 5 }
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "Blue",
+	"description": "swim swim",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 10 }
+	]
+}

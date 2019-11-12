@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Dark Blue",
+	"description": "deep swim swim",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 7 }
+		{ "item": "silicon", "amount": 3 }
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Pastel Pink",
+	"description": "[pink]OWO",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "copper", "amount": 7 }
+		{ "item": "metaglass", "amount": 3 }
+	]
+}

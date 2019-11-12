@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Dark Orange",
+	"description": "D:",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 4 }
+		{ "item": "silicon", "amount": 4 }
+	]
+}

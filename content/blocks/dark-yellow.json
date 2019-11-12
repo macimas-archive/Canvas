@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Dark Yellow",
+	"description": "Lil sun spots. :D",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 7 }
+		{ "item": "silicon", "amount": 3 }
+	]
+}
