@@ -1,0 +1,13 @@
+{
+	"type": "Block",
+	"name": "Pastel Raspberry",
+	"description": "More delicious!",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "turret",
+	"requirements": [
+		{ "item": "thorium", "amount": 7 }
+		{ "item": "metaglass", "amount": 3 }
+	]
+}

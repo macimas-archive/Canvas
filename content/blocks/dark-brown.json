@@ -1,0 +1,13 @@
+{
+	"type": "Block",
+	"name": "Dark Brown",
+	"description": "[red]oh no...",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "turret",
+	"requirements": [
+		{ "item": "copper", "amount": 7 }
+		{ "item": "silicon", "amount": 3 }
+	]
+}

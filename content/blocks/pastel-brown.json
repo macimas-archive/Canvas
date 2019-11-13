@@ -1,0 +1,13 @@
+{
+	"type": "Block",
+	"name": "Pastel Brown",
+	"description": "What.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "turret",
+	"requirements": [
+		{ "item": "copper", "amount": 7 }
+		{ "item": "metaglass", "amount": 3 }
+	]
+}

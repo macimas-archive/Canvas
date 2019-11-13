@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Raspberry",
+	"description": "Delicious.",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "turret",
+	"requirements": [
+		{ "item": "thorium", "amount": 10 }
+	]
+}
