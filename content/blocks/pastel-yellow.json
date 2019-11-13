@@ -5,6 +5,7 @@
 	"health": 100,
 	"size": 1,
 	"breakable": true,
+	"category": "power",
 	"requirements": [
 		{ "item": "surge-alloy", "amount": 6 }
 		{ "item": "metaglass", "amount": 4 }

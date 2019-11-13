@@ -5,6 +5,7 @@
 	"health": 100,
 	"size": 1,
 	"breakable": true,
+	"category": "liquid",
 	"requirements": [
 		{ "item": "surge-alloy", "amount": 7 }
 		{ "item": "silicon", "amount": 3 }

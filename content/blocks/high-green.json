@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "High Green",
+	"description": "h",
+	"health": 100,
+	"size": 1,
+	"breakable": true,
+	"category": "power",
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	]
+}
