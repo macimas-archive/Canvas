@@ -5,7 +5,7 @@
 	"health": 100,
 	"size": 1,
 	"breakable": true,
-	"category": "turret",
+	"category": "distribution",
 	"requirements": [
 		{ "item": "thorium", "amount": 10 }
 	]

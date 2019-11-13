@@ -5,7 +5,7 @@
 	"health": 100,
 	"size": 1,
 	"breakable": true,
-	"category": "turret",
+	"category": "power",
 	"requirements": [
 		{ "item": "copper", "amount": 7 }
 		{ "item": "metaglass", "amount": 3 }
