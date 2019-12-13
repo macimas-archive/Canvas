@@ -1,0 +1,11 @@
+{
+	"type": "resource",
+	"name": "Dark Pink",
+	"description": "Colors!",
+	"explosiveness": 1,
+	"flammability": 1,
+	"radioactivity": 1,
+	"hardness": 1,
+	"cost": 1,
+	"color": "B31E92"
+}

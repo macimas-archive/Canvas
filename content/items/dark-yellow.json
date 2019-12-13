@@ -1,0 +1,11 @@
+{
+	"type": "resource",
+	"name": "Dark Yellow",
+	"description": "Colors!",
+	"explosiveness": 1,
+	"flammability": 1,
+	"radioactivity": 1,
+	"hardness": 1,
+	"cost": 1,
+	"color": "B3AD1E"
+}

@@ -1,0 +1,11 @@
+{
+	"type": "resource",
+	"name": "High Purple",
+	"description": "Colors!",
+	"explosiveness": 1,
+	"flammability": 1,
+	"radioactivity": 1,
+	"hardness": 1,
+	"cost": 1,
+	"color": "FF00FF"
+}

@@ -1,0 +1,11 @@
+{
+	"type": "resource",
+	"name": "Dark Gray",
+	"description": "Colors!",
+	"explosiveness": 1,
+	"flammability": 1,
+	"radioactivity": 1,
+	"hardness": 1,
+	"cost": 1,
+	"color": "3E3E3E"
+}

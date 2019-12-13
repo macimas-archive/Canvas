@@ -1,0 +1,11 @@
+{
+	"type": "resource",
+	"name": "Pastel Green",
+	"description": "Colors!",
+	"explosiveness": 1,
+	"flammability": 1,
+	"radioactivity": 1,
+	"hardness": 1,
+	"cost": 1,
+	"color": "6BFF70"
+}
